@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\cat_flag.txt\cat_flag.txt\bin\Debug\cat_flag.txt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\cat_flag.txt\cat_flag.txt\bin\Debug\cat_flag.txt.InstallLog
+   assemblypath = E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\cat_flag.txt\cat_flag.txt\bin\Debug\cat_flag.txt.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\cat_flag.txt\cat_flag.txt\bin\Debug\cat_flag.txt.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\cat_flag.txt\cat_flag.txt\bin\Debug\cat_flag.txt.InstallLog
+   assemblypath = E:\UIT-HKII-2021\CoCheHoatDongMaDoc\Thuchanh\Lab2\cat_flag.txt\cat_flag.txt\bin\Debug\cat_flag.txt.exe
